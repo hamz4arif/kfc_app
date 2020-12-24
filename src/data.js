@@ -1,4 +1,4 @@
-export let categories = ['ZINGER MEALS', 'EVERY DAY VALUE', 'FAMILY MEALS'];
+export let categories = ['ZINGER MEALS', 'EVERY DAY VALUE', 'FAMILY MEALS','ALL'];
 
 export let products = 
 [

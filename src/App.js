@@ -13,26 +13,26 @@ function App() {
       </nav>
       {/* ---------------------------------------------- */}
       <div id="carouselExampleControls" className="mx-2 carousel slide" data-ride="carousel">
-  <div className="carousel-inner">
-    <div className="carousel-item active">
-      <img className="d-block w-100" src="https://source.unsplash.com/1600x500/?kfc,zinger" alt="First slide"/>
-    </div>
-    <div className="carousel-item">
-      <img className="d-block w-100" src="https://source.unsplash.com/1600x500/?lunch,pizza" alt="Second slide"/>
-    </div>
-    <div className="carousel-item">
-      <img className="d-block w-100" src="https://source.unsplash.com/1600x500/?food,burger" alt="Third slide"/>
-    </div>
-  </div>
-  <a className="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-    <span className="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span className="sr-only">Previous</span>
-  </a>
-  <a className="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-    <span className="carousel-control-next-icon" aria-hidden="true"></span>
-    <span className="sr-only">Next</span>
-  </a>
-</div>
+        <div className="carousel-inner">
+          <div className="carousel-item active">
+            <img className="d-block w-100" src="https://source.unsplash.com/1600x700/?kfc,zinger" alt="First slide" />
+          </div>
+          <div className="carousel-item">
+            <img className="d-block w-100" src="https://source.unsplash.com/1600x700/?kfc,drink" alt="Second slide" />
+          </div>
+          <div className="carousel-item">
+            <img className="d-block w-100" src="https://source.unsplash.com/1600x700/?kfc,burger" alt="Third slide" />
+          </div>
+        </div>
+        <a className="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+          <span className="carousel-control-prev-icon" aria-hidden="true"></span>
+          <span className="sr-only">Previous</span>
+        </a>
+        <a className="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+          <span className="carousel-control-next-icon" aria-hidden="true"></span>
+          <span className="sr-only">Next</span>
+        </a>
+      </div>
       {/* ---------------------------------------------- */}
       <div className="row mt-4">
         <div className="col-3">
